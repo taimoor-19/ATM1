@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\c sharp 9\c sharp 9\bin\Debug\c sharp 9.exe.config
+C:\Users\HP\source\repos\c sharp 9\c sharp 9\bin\Debug\c sharp 9.exe
+C:\Users\HP\source\repos\c sharp 9\c sharp 9\bin\Debug\c sharp 9.pdb
+C:\Users\HP\source\repos\c sharp 9\c sharp 9\obj\Debug\c sharp 9.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\c sharp 9\c sharp 9\obj\Debug\c sharp 9.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\c sharp 9\c sharp 9\obj\Debug\c sharp 9.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\c sharp 9\c sharp 9\obj\Debug\c sharp 9.exe
+C:\Users\HP\source\repos\c sharp 9\c sharp 9\obj\Debug\c sharp 9.pdb
